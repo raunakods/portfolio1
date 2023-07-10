@@ -6,3 +6,4 @@ We will learn a method to scrape public conversations from people on a specific 
 Snscrape is an approach for scraping information from Twitter that does not require the use of an API. Snscrape allows you to scrape basic information such as a user's profile, tweet content, source, and so on.
 Snscrape is not limited to Twitter, but can also scrape content from other prominent social media networks like Facebook, Instagram, and others.
 Its advantages are that there are no limits to the number of tweets you can retrieve or the window of tweets (that is, the date range of tweets). So Snscrape allows you to retrieve old data.
+![WhatsApp Image 2023-06-27 at 19 46 55](https://github.com/raunakods/portfolio1/assets/129099948/80b1990a-5352-402e-a270-4d724ff50c33)
